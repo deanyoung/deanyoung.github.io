@@ -1,11 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: What is data science?
 ---
 
-## What is "data science"?
 
-![]"images\data-science-diagram"
+![](images\data-science-diagram.png)
 
 A popular interpretation of the term "data scientist" can be described with the diagram above. It is the intersection of traditional statistics/math 
 knowledge with technology and domain knowledge.
