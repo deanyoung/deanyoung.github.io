@@ -6,7 +6,7 @@
 title: Dean Young
 
 # Short bio or description (displayed in the header)
-description: Data Scientist at Nuna Inc.
+description: Personal Finance Ethusiast, Investor, Software Engineer at LinkedIn
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: \images\profile.jpg
@@ -56,6 +56,8 @@ defaults:
       type: "posts"
     values:
       permalink: /blog/:title/
+
+imgsrc: /images
 
 #
 # !! You don't need to change any of the configuration flags below !!
