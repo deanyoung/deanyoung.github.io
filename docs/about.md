@@ -7,7 +7,7 @@ permalink: /about/
 I'm Dean, currently a *Senior Software Engineer* at *LinkedIn* based in the Bay Area,
 California. I've spent over 4 years in the bay working as a leader in the intersection
 of Data Science and Big Data Engineering at consulting firms, startups,
-and top tech companies such as Facebook and LinkedIn.
+and top tech companies such as *Facebook* and *LinkedIn*.
 
 Outside of my career, I spend my time learning and teaching about personal finance
 and investing. I've been a serious investor for nearly a decade, making my money
@@ -18,7 +18,7 @@ and real estate.
 I hope to make this blog a documentation of the things I've learned and a way to
 help others progress in their careers and financial lives as much as possible.
 
-### My Engineering Experience (4+ years)
+### My Data Science and Engineering Experience (4+ years)
 
 I graduated from Reed College in 2016 with a B.A. in Mathematics-Economics. I loved
 working with data, statistics, and computer science and knew I wanted to make a career
