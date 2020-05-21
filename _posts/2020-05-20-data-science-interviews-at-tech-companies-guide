@@ -1,8 +1,0 @@
----
-layout: post
----
-
-### A comprehensive interview guide to get Data Science roles at top tech companies.
-### Written by a former Data Scientist and interviewer at Facebook
-
-<img src="{{ site.imgsrc }}/{{ page.slug }}/data-science-interview.png">
