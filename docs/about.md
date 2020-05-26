@@ -43,8 +43,23 @@ where I am now. I support a marketing data science team in their data foundation
 
 **Throughout my career, I have given and participated in dozens of interviews for
 both data science and data engineering. In addition to Nuna, Facebook, LinkedIn,
-I've also done and passed interviews at Netflix, Apple, Houzz, and various other
-startups.**
+I've also done and passed interviews at several top tech companies in the Bay Area
+including Netflix, Apple, and Houzz.**
+
+### My Investing and Personal Finance Experience
+
+When I started in college I had less than $1,000 to my name. I started off by
+opening a high-yield savings account that paid far more interest than most brick
+and mortar banks. By following the principles of *financial minimalism* strictly,
+I was able to graduate college with 5-figures of savings.
+
+I worked several jobs and internships throughout my time in college and used the
+money to open a Roth IRA to invest in stock index funds.
+
+Fast forward to today, I've invested in stocks, bonds, options, real estate, and
+even dipped my toes in crypto. I've amassed a 6-figure investment portfolio by
+abiding strictly by the principles of *financial minimalism* and also staying
+the course even when there is market turmoil.
 
 ### Contact me
 
