@@ -64,6 +64,14 @@ defaults:
 
 imgsrc: /images
 
+legal-disclaimer: >
+  All content and advice on this site is written as the author's
+  (Dean Young's) own opinion. While the author is providing content and advice in
+  good-faith to help his readers, the author cannot be held liable for any loss
+  whether financial, physical, or otherwise by readers in following the advice or
+  content. The content and advice is meant to be for a general audience. Please
+  seek professional counsel for specific situations before proceeding.
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
