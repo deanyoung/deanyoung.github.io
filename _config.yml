@@ -110,4 +110,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-hacker
