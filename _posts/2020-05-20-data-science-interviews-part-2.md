@@ -13,15 +13,16 @@ the interview process is standardized and so any data scientist can give you a
 standardized set of questions. It doesn't mean you have to join that team, nor
 will the question necessarily be specific to what they're working on.
 
-The interview will be done remotely and typically using an interactive environment
-like <a href="coderpad.io"> coderpad</a>. I've also participated in ones were it
-was just over the phone.
-
 The point of the interview is to assess if you meet the minimum technical bar to
 perform the data science role at the company. This can be the scariest part of
 the interview process but arguably the easiest one to prepare for. Typically, this
 assessment is split into two parts, one on **data transformation** and then one on
 a **data case study**.
+
+The interview will be done remotely and typically using an interactive environment
+like <a href="coderpad.io"> coderpad</a>. Some companies only do this interview
+over the phone, in which case the interview only consists of the **data case study**
+piece.
 
 ##### Data Transformation
 The company wants to know if you have the technical chops to transform given input
@@ -81,3 +82,18 @@ associated with riding alone vs Line, etc. You'll probably also be asked to desi
 an a/b test (experiment) which means you will need to pick a KPI (key performance indicator)
 such as average number of Lyft Line usage and evaluate whether the targeted
 notifications are working and should be launched at scale.
+
+Throughout these questions, key statistics knowledge will be necessary. Do you understand
+what mean, median, mode, variance mean and how to interpret them? Could you translate
+a t-test and explain it to a non-technical audience? Sometimes you will get questions
+about regressions and how to evaluate the fit and coefficients.
+
+Here is a link to a post where I run through an example question.
+
+The best way to practice for this is to quiz yourself or have someone else quiz
+you on random case studies many companies would ask of their data scientists.
+Every time you interact with a product, say Netflix, think about what questions
+they might ask (how would you determine a ranking of movies for a user to watch?)
+and then has out your answers.
+
+[Part 3: The Onsite]({{ site.baseurl }}/blog/data-science-interviews-part-3/)

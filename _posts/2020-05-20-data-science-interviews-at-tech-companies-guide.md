@@ -18,10 +18,8 @@ expect and prepare for. In future posts, I will be adding walkthroughs of specif
 example technical interview questions.
 
 #### Table of Contents
-<a href="{{ site.baseurl }}/blog/data-science-interviews-part-1/">
-Part 1: The Recruiter Screen
-</a>
-<br>
-<a href="{{ site.baseurl }}/blog/data-science-interviews-part-2/">
-Part 2: The Technical Screen
-</a>
+[Part 1: The Recruiter Screen]({{ site.baseurl }}/blog/data-science-interviews-part-1/)
+
+[Part 2: The Technical Screen]({{ site.baseurl }}/blog/data-science-interviews-part-2/)
+
+[Part 3: The Onsite]({{ site.baseurl }}/blog/data-science-interviews-part-3/)

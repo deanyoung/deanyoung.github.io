@@ -34,6 +34,4 @@ recruiter found a better matching role for me to interview at. This screen is a
 two way street and it helps to ensure that the role you interview for is a good
 fit for you.
 
-<a href="{{ site.baseurl }}/blog/data-science-interviews-part-2/">
-Part 2: The Technical Screen
-</a>
+[Part 2: The Technical Screen]({{ site.baseurl }}/blog/data-science-interviews-part-2/)
